@@ -6,11 +6,10 @@
 $id_stamp = $_GET["id_stamp"];
 
 /* Conection with DB*/
-$servername = "localhost";
-$username = "root";
-$password = "";
-$dbname = "collection";
-
+$servername = "http://dleyva.techlaunch.online/stamps/";
+$username = "dleyva";
+$password = "Cuba1234567890";
+$dbname = "collections";
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
 // Check connection
