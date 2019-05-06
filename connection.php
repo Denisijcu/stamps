@@ -1,6 +1,6 @@
 <?php
 
-$servername = "dleyva.techlaunch.online/stamps/";
+$servername = "localhost";
 $username = "dleyva";
 $password = "Cuba1234567890";
 $dbname = "collections";
